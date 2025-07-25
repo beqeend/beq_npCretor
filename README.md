@@ -43,7 +43,7 @@ NPC'ye yaklaşıldığında otomatik olarak target menüsü veya DrawText görü
  ```
 
 
-```lua
+```
       Config.NPCs = {
           {
               model = "a_m_m_business_01",
