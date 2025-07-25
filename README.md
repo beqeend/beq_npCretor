@@ -42,8 +42,6 @@ NPC'ye yaklaşıldığında otomatik olarak target menüsü veya DrawText görü
    ensure beq_npcCreator
  ```
 
-
-```
       Config.NPCs = {
           {
               model = "a_m_m_business_01",
