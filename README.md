@@ -38,7 +38,7 @@ NPC'ye yaklaşıldığında otomatik olarak target menüsü veya DrawText görü
 
 1. Scripti `resources` klasörüne at.
 2. `server.cfg` dosyana aşağıdaki satırı ekle:
-3. ```js
+3. ```
    ensure beq_npcCreator
  ```
 
