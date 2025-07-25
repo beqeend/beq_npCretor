@@ -1,7 +1,7 @@
 # 🧍‍♂️ beq_npcCreator - Standalone Çoklu Target Destekli NPC Scripti
 
-![beq_npcCreator](https://i.hizliresim.com/43f127g.png?_gl=1*ncxi93*_ga*MTEzMzgzNTg3Ni4xNzUxMjA1OTM5*_ga_M9ZRXYS2YN*czE3NTM0MzU5ODkkbzIkZzEkdDE3NTM0MzYwNDMkajYkbDAkaDA.)
 
+[PNG](https://i.hizliresim.com/43f127g.png?_gl=1*ncxi93*_ga*MTEzMzgzNTg3Ni4xNzUxMjA1OTM5*_ga_M9ZRXYS2YN*czE3NTM0MzU5ODkkbzIkZzEkdDE3NTM0MzYwNDMkajYkbDAkaDA.)
 FiveM sunucularında **tamamen framework bağımsız** (standalone) çalışan, **çoklu target sistemi** destekleyen dinamik NPC scripti!
 
 ---
